@@ -23,7 +23,7 @@ The model is compiled with:
 The model is trained on the MNIST training set for 5 epochs with a batch size of 32.
 
 ## Evaluation
-After training, the model's performance is evaluated on the test set, with accuracy as the primary metric.
+After training, the model's performance is evaluated on the test set, with accuracy as the primary metric. The testing accuracy of this model with this dataset is 0.9902999997138977.
 
 ## Predictions
 The notebook includes code to make predictions on a sample of test images and compares them to the actual labels.
@@ -33,10 +33,6 @@ The notebook includes code to make predictions on a sample of test images and co
 - Jupyter Notebook
 - TensorFlow and Keras
 - NumPy and Matplotlib (for data processing and visualization)
-
-## Running the Notebook
-1. Open the notebook in Jupyter.
-2. Run each cell sequentially to load the dataset, build and train the model, and evaluate its performance.
 
 ## Example Usage
 The notebook demonstrates the complete workflow for handwritten digit recognition, from loading the dataset and training the model to evaluating its accuracy and making sample predictions.
