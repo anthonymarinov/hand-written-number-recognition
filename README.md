@@ -23,7 +23,7 @@ The model is compiled with:
 The model is trained on the MNIST training set for 5 epochs with a batch size of 32.
 
 ## Evaluation
-After training, the model's performance is evaluated on the test set, with accuracy as the primary metric. The testing accuracy of this model with this dataset is 0.9902999997138977.
+After training, the model's performance is evaluated on the test set, with accuracy as the primary metric. The testing accuracy of this model with this dataset is 0.9903.
 
 ## Predictions
 The notebook includes code to make predictions on a sample of test images and compares them to the actual labels.
